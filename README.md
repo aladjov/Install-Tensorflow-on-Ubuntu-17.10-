@@ -1,2 +1,2 @@
-# Install-Tensorflow-on-Ubuntu-17.10-
-Quick install guide for Ubuntu 17.10
+# Install-Tensorflow-on-Ubuntu-18.04-
+Quick install guide for Ubuntu 18.04
